@@ -244,6 +244,7 @@ void loop() {
         Serial.println(profiles[currProfile].sets);
         profiles[currProfile].rest = profiles[currProfile].storeRest;
         currentState = DONE;
+        noTone(buzzer);
       }
       break;
     }
