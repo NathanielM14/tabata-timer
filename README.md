@@ -1,6 +1,9 @@
 tabata-timer-module
 
+**Files**
+| Schematic | PCB | Program |
 **Description**:
+
 This Tabata Timer Module is used to track exercise time, resting time, and sets utilizing finite state machine logic. The module includes 5 fully customizable profiles that are written to the EEPROM to allow for multi-profile saving. Buzzer alerts are given nearing the end of each state to notify user of when they have reached the set amount of time. All components are through-hole and were soldered to the PCB board.
 
 **Parts List**:
