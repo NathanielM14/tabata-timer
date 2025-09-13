@@ -18,7 +18,7 @@ This Tabata Timer Module is used to program Calisthenics and any other static/dy
 * (1x) SSD1306 OLED (I2C)
 * (1x) 5641AS (common anode)
 * (4x) Push Button
-* (1x) Arduino NANO / equivalent
+* (1x) Arduino NANO / NON-OEM equivalent
 * (4x) 10kΩ Resistors
 * (7x) 220Ω Resistors
 * (1x) 330Ω Resistors
