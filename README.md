@@ -15,7 +15,7 @@ This Tabata Timer Module is used to program calisthenics and any other static/dy
 | tabata_v1.ino | Program |
 
 **Parts List**:
-* (1x) SSD1306 OLED (I2C)
+* (1x) 128x64 4-pin SSD1306 OLED (I2C)
 * (1x) 5641AS (common anode)
 * (4x) Push Button
 * (1x) Arduino NANO / NON-OEM equivalent
