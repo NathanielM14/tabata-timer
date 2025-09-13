@@ -5,9 +5,9 @@ Parts List:
 * (1x) 5641AS (common anode)
 * (4x) Push Button
 * (1x) Arduino NANO / equivalent
-* (4x) 10k Resistors
-* (7x) 220 Resistors
-* (1x) 330 Resistors
+* (4x) 10kΩ Resistors
+* (7x) 220Ω Resistors
+* (1x) 330Ω Resistors
 * (1x) Passive Buzzer
 
 1. Schematic
