@@ -3,7 +3,7 @@ tabata-timer-module
 **Personal Project Description**:
 
 
-This Tabata Timer Module is used to program Calisthenics and any other static/dynamic exercises that are to be done in a specific time interval. The purpose of this timer is to show exercise time, resting time, and sets utilizing finite state machine logic. The module includes 5 fully customizable profiles that are written to the EEPROM to allow for multi-profile saving. Buzzer alerts are given nearing the end of each state to notify user of when they have reached the set amount of time. All components are through-hole and were soldered to the PCB board (Note a simple soldering iron will be required to solder all the through-hole components). Files and descriptions are listed below in the table along with all the required parts for the project.
+This Tabata Timer Module is used to program calisthenics and any other static/dynamic exercises that are to be done in a specific time interval. The purpose of this timer is to show exercise time, resting time, and sets utilizing finite state machine logic. The module includes 5 fully customizable profiles that are written to the EEPROM to allow for multi-profile saving. Buzzer alerts are given nearing the end of each state to notify user of when they have reached the set amount of time. All components are through-hole and were soldered to the PCB board (Note a simple soldering iron will be required to solder all the through-hole components). Files and descriptions are listed below in the table along with all the required parts for the project.
 
 **Files**:
 
