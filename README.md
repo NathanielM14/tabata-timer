@@ -1,4 +1,14 @@
 tabata-timer-module
+Parts List:
+* SSD1306 OLED (I2C)
+* 5641AS (common anode)
+* Push Button
+* Arduino NANO / equivalent
+* 10k Resistors
+* 220 Resistors
+* 330 Resistors
+* Passive Buzzer
+
 1. Schematic
 
 ![image alt](https://github.com/NathanielM14/tabata-timer/blob/44222909e9ed671a1c4394a2dc6a68d3b45191cb/images/schematic_design.png)
