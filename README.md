@@ -1,5 +1,7 @@
 tabata-timer-module
 
+This Tabata Timer Module is used to track exercise time, resting time, and sets utilizing finite state machine logic. 
+
 Parts List:
 * (1x) SSD1306 OLED (I2C)
 * (1x) 5641AS (common anode)
