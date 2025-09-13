@@ -1,9 +1,9 @@
 tabata-timer-module
 
-Description:
+**Description**:
 This Tabata Timer Module is used to track exercise time, resting time, and sets utilizing finite state machine logic. The module includes 5 fully customizable profiles that are written to the EEPROM to allow for multi-profile saving. Buzzer alerts are given nearing the end of each state to notify user of when they have reached the set amount of time. All components are through-hole and were soldered to the PCB board.
 
-Parts List:
+**Parts List**:
 * (1x) SSD1306 OLED (I2C)
 * (1x) 5641AS (common anode)
 * (4x) Push Button
@@ -13,19 +13,19 @@ Parts List:
 * (1x) 330Ω Resistors
 * (1x) Passive Buzzer
 
-1. Schematic
+1.**Schematic**
 
 ![image alt](https://github.com/NathanielM14/tabata-timer/blob/44222909e9ed671a1c4394a2dc6a68d3b45191cb/images/schematic_design.png)
 
-2. SSD1306 Footprint
+2. **SSD1306 Footprint**
 
 ![image alt](https://github.com/NathanielM14/tabata-timer/blob/f717f7226c26d0fee968ef8726d06513bc65c88a/images/ssd1306_footprint.png)
 
-3. PCB
+3. **PCB**
 
 ![image alt](https://github.com/NathanielM14/tabata-timer/blob/54fe5bcee97a72f83aa2d56b4533ac9723e4b041/images/pcb_design.png)
 
-4. Physical
+4. **Physical**
 
 ![image alt](https://github.com/NathanielM14/tabata-timer/blob/f717f7226c26d0fee968ef8726d06513bc65c88a/images/physical.png)
 
