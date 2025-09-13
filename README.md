@@ -1,14 +1,18 @@
 tabata-timer-module
-
-**Files**
-
-| File | Description |
-| tabata.kicad_sch | Schematic |
-| tabata.kicad_pcb | PCB | 
-| tabata_v1.ino | Program |
+***
 **Description**:
 
-This Tabata Timer Module is used to track exercise time, resting time, and sets utilizing finite state machine logic. The module includes 5 fully customizable profiles that are written to the EEPROM to allow for multi-profile saving. Buzzer alerts are given nearing the end of each state to notify user of when they have reached the set amount of time. All components are through-hole and were soldered to the PCB board.
+
+This Tabata Timer Module is used to program Calisthenics and any other static/dynamic exercises that are to be done in a specific time interval. The purpose of this timer is to show exercise time, resting time, and sets utilizing finite state machine logic. The module includes 5 fully customizable profiles that are written to the EEPROM to allow for multi-profile saving. Buzzer alerts are given nearing the end of each state to notify user of when they have reached the set amount of time. All components are through-hole and were soldered to the PCB board. Files and descriptions are listed below in the table along with all the required parts for the project
+
+**Files**:
+
+| File | Description |
+| ------- | --------- |
+| tabata.kicad_sch | Schematic |
+| SSD1306.pretty | SSD1306 Footprint | 
+| tabata.kicad_pcb | PCB | 
+| tabata_v1.ino | Program |
 
 **Parts List**:
 * (1x) SSD1306 OLED (I2C)
